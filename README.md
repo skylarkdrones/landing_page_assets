@@ -39,6 +39,7 @@ The repository is structured into the following directories, mapped to the `IMAG
 2.  **Performance**: Prioritize **WebP** for photographic content and **SVG** for icons to maximize Core Web Vitals scores.
 
 **Should the website load slower:**
+
 3.  **Optimization**: Assets must be compressed using [TinyPNG](https://tinypng.com) or [Squoosh](https://squoosh.app) before being committed to the repository.
 
 ---
