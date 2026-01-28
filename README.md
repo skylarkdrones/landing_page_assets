@@ -36,7 +36,7 @@ The repository is structured into the following directories, mapped to the `IMAG
 ## 🛠 Asset Standards (2026)
 
 1.  **Naming Convention**: All new files must use `kebab-case.ext` to maintain compatibility with existing image constants.
-2.  **Performance**: Prioritize **WebP** for photographic content and **SVG** for icons to maximize Core Web Vitals scores.
+2.  **Performance**: Prioritize **SVG** for icons to maximize Core Web Vitals scores.
 
 **Should the website load slower:**
 
