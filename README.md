@@ -33,6 +33,9 @@ The repository is structured into the following directories, mapped to the `IMAG
 *   **`/go-live`**  
     Dedicated visual assets for the "Go-Live" section, featuring specific hero imagery and supporting feature highlights.
 
+*   *   **`/platforms`**  
+    Dedicated visual assets for the "Platforms" page, featuring specific hero imagery and highlighting desktop and android platforms.
+
 ## 🛠 Asset Standards (2026)
 
 1.  **Naming Convention**: All new files must use `kebab-case.ext` to maintain compatibility with existing image constants.
